@@ -1,1 +1,1 @@
-# PV207_ReservIT
+# PV207 project repository
